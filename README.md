@@ -27,3 +27,6 @@ The app updates your online status every minute. Press Ctrl+C to gracefully disc
 
 - Delete `telegram_session/` folder to re-authenticate
 - Requires Node.js 18+
+
+## Screen
+![Screen](screen.png)
